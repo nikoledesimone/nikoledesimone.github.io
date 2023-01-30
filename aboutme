@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+        <img src= "csc106_banner-2.jpg"><br>
+        <table>
+            <tr>
+                <th><a href= "nikoledesimone.github.io/index.html"> <img src="home button.png"></a>
+                <th><a href= "nikoledesimone.github.io/javascripts"> <img src= "javascriptsbutton.png"></a>    
+                <th><a href= "nikoledesimone.github.io/aboutme"> <img src="aboutmebutton.png"></a>
+            </tr>
+                </table><br>
+     
+        <title>Nikole's Programming Portfolio</title>
+        
+    </head>
+    <body>
+    Welcome to my "About Me" page. My Name is Nikole DeSimone and I am from Brewster, Massachusetts. <br>
+    I enjoy going to the beach, figuring skating, and spending time with my friends and family. 
+    </body>
+</html>
